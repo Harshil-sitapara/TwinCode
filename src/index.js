@@ -2,16 +2,16 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App.jsx";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 /*
 To install material UI icon:-
 npm install @mui/material @emotion/react @emotion/styled
 */ 
 ReactDOM.render(
   <>
-    <BrowserRouter>
+    <HashRouter>
       <App />
-    </BrowserRouter>
+    </HashRouter>
   </>,
   document.getElementById("root")
 );
