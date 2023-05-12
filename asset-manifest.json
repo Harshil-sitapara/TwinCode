@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TwinCode/static/css/main.1318e854.css",
-    "main.js": "/TwinCode/static/js/main.68606937.js",
+    "main.js": "/TwinCode/static/js/main.a79e0fbf.js",
     "static/media/gif3.gif": "/TwinCode/static/media/gif3.7984f6cd3c51e55ae601.gif",
     "static/media/gif2.gif": "/TwinCode/static/media/gif2.eeef1c2094cb74751228.gif",
     "static/media/gif1.gif": "/TwinCode/static/media/gif1.f0cb4a97c87e81ee1c1a.gif",
@@ -12,10 +12,10 @@
     "static/media/gif5.gif": "/TwinCode/static/media/gif5.93500088876b128bbc2d.gif",
     "index.html": "/TwinCode/index.html",
     "main.1318e854.css.map": "/TwinCode/static/css/main.1318e854.css.map",
-    "main.68606937.js.map": "/TwinCode/static/js/main.68606937.js.map"
+    "main.a79e0fbf.js.map": "/TwinCode/static/js/main.a79e0fbf.js.map"
   },
   "entrypoints": [
     "static/css/main.1318e854.css",
-    "static/js/main.68606937.js"
+    "static/js/main.a79e0fbf.js"
   ]
 }
