@@ -15,7 +15,7 @@ const App = () => {
     <>
       <Navbar />
       <Routes>
-        <Route exact path="/" Component={Home} />
+        <Route exact path="/TwinCode" Component={Home} />
         <Route exact path="/about" Component={About} />
         <Route exact path="/contact" Component={Contact} />
         <Route exact path="/service" Component={Service} />
